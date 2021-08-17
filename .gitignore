@@ -3,4 +3,5 @@
 */
 !.gitignore
 !README.md
-!CPP-Rational/
+!CPP-Rational/*.cpp
+!CPP-Rational/*.h
